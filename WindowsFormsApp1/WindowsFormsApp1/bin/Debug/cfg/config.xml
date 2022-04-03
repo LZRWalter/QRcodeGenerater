@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312" standalone="no"?>
+<form ver="1.00" title="二维码生成工具">
+	<qrcodeMsg>
+		<organizationId name="组织机构代码" select="123456789" length="9">
+			<itme ID="123456780">215-6ab</itme>
+			<itme ID="123456789">215-7ab</itme>
+			<itme ID="123456710">215-8ab</itme>
+		</organizationId>
+		<orderId name="" select="0" length="4">
+			<item ID="1234">引信</item>	
+		</orderId>
+	</qrcodeMsg>
+</form>
