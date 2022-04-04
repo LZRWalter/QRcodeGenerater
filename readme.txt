@@ -1,1 +1,1 @@
-this is the first git test
+this repository is app for generating QRcode , it is progtamed by C# .
